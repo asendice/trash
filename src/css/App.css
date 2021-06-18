@@ -1,0 +1,10 @@
+
+.navigation {
+  margin-bottom: 0 !important;
+}
+
+.shopping-cart {
+  float: right !important;
+  margin-top: -3px !important;
+  margin-left: 10px !important;
+}
